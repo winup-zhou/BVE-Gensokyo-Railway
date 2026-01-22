@@ -10,7 +10,7 @@ BveTs Map 2.00
 200+$dist1+$distHKR_T2+$dist2;
 	Structure['Sig_Arm_SU'].Put('1',-2.11,3.6,-0.38,,-90,,,5);
 	Structure['Sig_Arm_SD'].Put('1',-2.11,2.38,-0.38,,-90,,,5);
-380+$dist1+$distHKR_T2+$dist2;
+400+$dist1+$distHKR_T2+$dist2;
 //人里出发
 	Section.Begin(0,2,4);
 	Signal['Type4yg_LED'].Put(0,'1',-1.72,3.5,-0.05,,,,,);
