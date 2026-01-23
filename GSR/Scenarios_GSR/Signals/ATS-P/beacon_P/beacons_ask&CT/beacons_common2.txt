@@ -5,13 +5,10 @@ BveTs Map 2.00
 690+$dist1+$distHKR_T2+$dist2+$distNNS_T4;
 //人里-西人里 第1闭塞
 	$sig=distance;
-	$sig-5;
+	$sig-30;
 	Beacon.Put(5,-1,0);
 
 	Structure['ATS-P_2way1Y'].Put('1',0,0.05,0,,,,3,);
-	$sig-30;
-	Beacon.Put(3,-1,0);
-	Structure['ATS-P_2way1'].Put('1',0,0.05,0,,,,3,);	
 	$sig-85;
 	Beacon.Put(3,-1,0);
 	Structure['ATS-P_2way1'].Put('1',0,0.05,0,,,,3,);
@@ -24,13 +21,10 @@ BveTs Map 2.00
 1593+$dist1+$distHKR_T2+$dist2+$distNNS_T4;
 //西人里场内
 	$sig=distance;
-	$sig-5;
+	$sig-25;
 	Beacon.Put(4,-1,0);
 	
 	Structure['ATS-P_2way1Y'].Put('1',0,0.05,0,,,,3,);
-	$sig-25;
-	Beacon.Put(3,-1,0);
-	Structure['ATS-P_2way1'].Put('1',0,0.05,0,,,,3,);	
 	$sig-50;
 	Beacon.Put(3,-1,0);
 	Structure['ATS-P_2way1'].Put('1',0,0.05,0,,,,3,);	
@@ -52,12 +46,9 @@ BveTs Map 2.00
 1863+$dist1+$distHKR_T2+$dist2+$distNNS_T4;
 //西人里出发
 	$sig=distance;
-	$sig-5;
+	$sig-25;
 	Beacon.Put(4,-1,0);
 	Structure['ATS-P_2way1Y'].Put('1',0,0.05,0,,,,3,);
-	$sig-25;
-	Beacon.Put(3,-1,0);
-	Structure['ATS-P_2way1'].Put('1',0,0.05,0,,,,3,);	
 	$sig-50;
 	Beacon.Put(3,-1,0);
 	Structure['ATS-P_2way1'].Put('1',0,0.05,0,,,,3,);	
@@ -76,13 +67,10 @@ BveTs Map 2.00
 2790+$dist1+$distHKR_T2+$dist2+$distNNS_T4;
 //西人里-命莲寺 第3闭塞
 	$sig=distance;
-	$sig-5;
+	$sig-30;
 	Beacon.Put(5,-1,0);
 	
 	Structure['ATS-P_2way1Y'].Put('1',0,0.05,0,,,,3,);
-	$sig-30;
-	Beacon.Put(3,-1,0);
-	Structure['ATS-P_2way1'].Put('1',0,0.05,0,,,,3,);	
 	$sig-85;
 	Beacon.Put(3,-1,0);
 	Structure['ATS-P_2way1'].Put('1',0,0.05,0,,,,3,);
@@ -95,13 +83,10 @@ BveTs Map 2.00
 3380+$dist1+$distHKR_T2+$dist2+$distNNS_T4;
 //人里车辆中心
 	$sig=distance;
-	$sig-5;
+	$sig-25;
 	Beacon.Put(4,-1,0);
 
 	Structure['ATS-P_2way1Y'].Put('1',0,0.05,0,,,,3,);
-	$sig-25;
-	Beacon.Put(3,-1,0);
-	Structure['ATS-P_2way1'].Put('1',0,0.05,0,,,,3,);	
 	$sig-50;
 	Beacon.Put(3,-1,0);
 	Structure['ATS-P_2way1'].Put('1',0,0.05,0,,,,3,);	
@@ -123,13 +108,10 @@ BveTs Map 2.00
 3940+$dist1+$distHKR_T2+$dist2+$distNNS_T4;
 //西人里-命莲寺 第2闭塞
 	$sig=distance;
-	$sig-5;
+	$sig-30;
 	Beacon.Put(5,-1,0);
 	
 	Structure['ATS-P_2way1Y'].Put('1',0,0.05,0,,,,3,);
-	$sig-30;
-	Beacon.Put(3,-1,0);
-	Structure['ATS-P_2way1'].Put('1',0,0.05,0,,,,3,);	
 	$sig-85;
 	Beacon.Put(3,-1,0);
 	Structure['ATS-P_2way1'].Put('1',0,0.05,0,,,,3,);
@@ -142,13 +124,10 @@ BveTs Map 2.00
 5090+$dist1+$distHKR_T2+$dist2+$distNNS_T4;
 //西人里-命莲寺 第1闭塞
 	$sig=distance;
-	$sig-5;
+	$sig-30;
 	Beacon.Put(5,-1,0);
 	
 	Structure['ATS-P_2way1Y'].Put('1',0,0.05,0,,,,3,);
-	$sig-30;
-	Beacon.Put(3,-1,0);
-	Structure['ATS-P_2way1'].Put('1',0,0.05,0,,,,3,);	
 	$sig-85;
 	Beacon.Put(3,-1,0);
 	Structure['ATS-P_2way1'].Put('1',0,0.05,0,,,,3,);
@@ -161,13 +140,10 @@ BveTs Map 2.00
 6195+$dist1+$distHKR_T2+$dist2+$distNNS_T4;
 //命莲寺场内
 	$sig=distance;
-	$sig-5;
+	$sig-25;
 	Beacon.Put(4,-1,0);
 	
 	Structure['ATS-P_2way1Y'].Put('1',0,0.05,0,,,,3,);
-	$sig-25;
-	Beacon.Put(3,-1,0);
-	Structure['ATS-P_2way1'].Put('1',0,0.05,0,,,,3,);	
 	$sig-50;
 	Beacon.Put(3,-1,0);
 	Structure['ATS-P_2way1'].Put('1',0,0.05,0,,,,3,);	
@@ -189,13 +165,10 @@ BveTs Map 2.00
 6419+$dist1+$distHKR_T2+$dist2+$distNNS_T4;
 //命莲寺出发
 	$sig=distance;
-	$sig-5;
+	$sig-25;
 	Beacon.Put(4,-1,0);
 	
 	Structure['ATS-P_2way1Y'].Put('1',0,0.05,0,,,,3,);
-	$sig-25;
-	Beacon.Put(3,-1,0);
-	Structure['ATS-P_2way1'].Put('1',0,0.05,0,,,,3,);	
 	$sig-50;
 	Beacon.Put(3,-1,0);
 	Structure['ATS-P_2way1'].Put('1',0,0.05,0,,,,3,);	
@@ -214,13 +187,10 @@ BveTs Map 2.00
 7561+$dist1+$distHKR_T2+$dist2+$distNNS_T4;
 //北命莲寺场内
 	$sig=distance;
-	$sig-5;
+	$sig-25;
 	Beacon.Put(4,-1,0);
 	
 	Structure['ATS-P_2way1Y'].Put('1',0,0.05,0,,,,3,);
-	$sig-25;
-	Beacon.Put(3,-1,0);
-	Structure['ATS-P_2way1'].Put('1',0,0.05,0,,,,3,);	
 	$sig-50;
 	Beacon.Put(3,-1,0);
 	Structure['ATS-P_2way1'].Put('1',0,0.05,0,,,,3,);	
@@ -242,13 +212,10 @@ BveTs Map 2.00
 7721+$dist1+$distHKR_T2+$dist2+$distNNS_T4;
 //北命莲寺出发
 	$sig=distance;
-	$sig-5;
+	$sig-25;
 	Beacon.Put(4,-1,0);
 	
 	Structure['ATS-P_2way1Y'].Put('1',0,0.05,0,,,,3,);
-	$sig-25;
-	Beacon.Put(3,-1,0);
-	Structure['ATS-P_2way1'].Put('1',0,0.05,0,,,,3,);	
 	$sig-50;
 	Beacon.Put(3,-1,0);
 	Structure['ATS-P_2way1'].Put('1',0,0.05,0,,,,3,);	
@@ -269,13 +236,10 @@ BveTs Map 2.00
 8840+$dist1+$distHKR_T2+$dist2+$distNNS_T4;
 //北命莲寺-树海 第3闭塞
 	$sig=distance;
-	$sig-5;
+	$sig-30;
 	Beacon.Put(5,-1,0);
 	
 	Structure['ATS-P_2way1Y'].Put('1',0,0.05,0,,,,3,);
-	$sig-30;
-	Beacon.Put(3,-1,0);
-	Structure['ATS-P_2way1'].Put('1',0,0.05,0,,,,3,);	
 	$sig-85;
 	Beacon.Put(3,-1,0);
 	Structure['ATS-P_2way1'].Put('1',0,0.05,0,,,,3,);
@@ -290,13 +254,10 @@ BveTs Map 2.00
 9940+$dist1+$distHKR_T2+$dist2+$distNNS_T4;
 //北命莲寺-树海 第2闭塞
 	$sig=distance;
-	$sig-5;
+	$sig-30;
 	Beacon.Put(5,-1,0);
 	
 	Structure['ATS-P_2way1Y'].Put('1',0,0.05,0,,,,3,);
-	$sig-30;
-	Beacon.Put(3,-1,0);
-	Structure['ATS-P_2way1'].Put('1',0,0.05,0,,,,3,);	
 	$sig-85;
 	Beacon.Put(3,-1,0);
 	Structure['ATS-P_2way1'].Put('1',0,0.05,0,,,,3,);
@@ -309,13 +270,10 @@ BveTs Map 2.00
 11090+$dist1+$distHKR_T2+$dist2+$distNNS_T4;
 //北命莲寺-树海 第1闭塞
 	$sig=distance;
-	$sig-5;
+	$sig-30;
 	Beacon.Put(5,-1,0);
 	
 	Structure['ATS-P_2way1Y'].Put('1',0,0.05,0,,,,3,);
-	$sig-30;
-	Beacon.Put(3,-1,0);
-	Structure['ATS-P_2way1'].Put('1',0,0.05,0,,,,3,);	
 	$sig-85;
 	Beacon.Put(3,-1,0);
 	Structure['ATS-P_2way1'].Put('1',0,0.05,0,,,,3,);
@@ -328,13 +286,10 @@ BveTs Map 2.00
 12252+$dist1+$distHKR_T2+$dist2+$distNNS_T4;
 //树海场内
 	$sig=distance;
-	$sig-5;
+	$sig-25;
 	Beacon.Put(4,-1,0);
 	
 	Structure['ATS-P_2way1Y'].Put('1',0,0.05,0,,,,3,);
-	$sig-25;
-	Beacon.Put(3,-1,0);
-	Structure['ATS-P_2way1'].Put('1',0,0.05,0,,,,3,);	
 	$sig-50;
 	Beacon.Put(3,-1,0);
 	Structure['ATS-P_2way1'].Put('1',0,0.05,0,,,,3,);	
@@ -356,13 +311,10 @@ BveTs Map 2.00
 12402+$dist1+$distHKR_T2+$dist2+$distNNS_T4;
  //树海出发
 	$sig=distance;
-	$sig-5;
+	$sig-25;
 	Beacon.Put(4,-1,0);
 	
 	Structure['ATS-P_2way1Y'].Put('1',0,0.05,0,,,,3,);
-	$sig-25;
-	Beacon.Put(3,-1,0);
-	Structure['ATS-P_2way1'].Put('1',0,0.05,0,,,,3,);	
 	$sig-50;
 	Beacon.Put(3,-1,0);
 	Structure['ATS-P_2way1'].Put('1',0,0.05,0,,,,3,);	
@@ -381,13 +333,10 @@ BveTs Map 2.00
 13200+$dist1+$distHKR_T2+$dist2+$distNNS_T4;
 //树海-草田 第2闭塞
 	$sig=distance;
-	$sig-5;
+	$sig-30;
 	Beacon.Put(5,-1,0);
 	
 	Structure['ATS-P_2way1Y'].Put('1',0,0.05,0,,,,3,);
-	$sig-30;
-	Beacon.Put(3,-1,0);
-	Structure['ATS-P_2way1'].Put('1',0,0.05,0,,,,3,);	
 	$sig-85;
 	Beacon.Put(3,-1,0);
 	Structure['ATS-P_2way1'].Put('1',0,0.05,0,,,,3,);
@@ -400,13 +349,10 @@ BveTs Map 2.00
 14000+$dist1+$distHKR_T2+$dist2+$distNNS_T4;
 //树海-草田 第1闭塞
 	$sig=distance;
-	$sig-5;
+	$sig-30;
 	Beacon.Put(5,-1,0);
 	
 	Structure['ATS-P_2way1Y'].Put('1',0,0.05,0,,,,3,);
-	$sig-30;
-	Beacon.Put(3,-1,0);
-	Structure['ATS-P_2way1'].Put('1',0,0.05,0,,,,3,);	
 	$sig-85;
 	Beacon.Put(3,-1,0);
 	Structure['ATS-P_2way1'].Put('1',0,0.05,0,,,,3,);
@@ -419,13 +365,10 @@ BveTs Map 2.00
 14848+$dist1+$distHKR_T2+$dist2+$distNNS_T4;
 //草田场内
 	$sig=distance;
-	$sig-5;
+	$sig-25;
 	Beacon.Put(4,-1,0);
 	
 	Structure['ATS-P_2way1Y'].Put('1',0,0.05,0,,,,3,);
-	$sig-25;
-	Beacon.Put(3,-1,0);
-	Structure['ATS-P_2way1'].Put('1',0,0.05,0,,,,3,);	
 	$sig-50;
 	Beacon.Put(3,-1,0);
 	Structure['ATS-P_2way1'].Put('1',0,0.05,0,,,,3,);	
@@ -447,13 +390,10 @@ BveTs Map 2.00
 14973+$dist1+$distHKR_T2+$dist2+$distNNS_T4;
 //草田出发
 	$sig=distance;
-	$sig-5;
+	$sig-25;
 	Beacon.Put(4,-1,0);
 	
 	Structure['ATS-P_2way1Y'].Put('1',0,0.05,0,,,,3,);
-	$sig-25;
-	Beacon.Put(3,-1,0);
-	Structure['ATS-P_2way1'].Put('1',0,0.05,0,,,,3,);	
 	$sig-50;
 	Beacon.Put(3,-1,0);
 	Structure['ATS-P_2way1'].Put('1',0,0.05,0,,,,3,);	

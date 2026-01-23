@@ -19,13 +19,10 @@ BveTs Map 2.00
 200+$dist1+$distHKR_T2+$dist2+$distNNS_T4+$dist3;
 //守失场内
 	$sig=distance;
-	$sig-5;
+	$sig-25;
 	Beacon.Put(4,-1,0);
 	Beacon.Put(3,-1,9);
 	Structure['ATS-P_2way1Y'].Put('1',0,0.05,0,,,,3,);
-	$sig-25;
-	Beacon.Put(3,-1,7);
-	Structure['ATS-P_2way1'].Put('1',0,0.05,0,,,,3,);
 	$sig-50;
 	Beacon.Put(3,-1,6);
 	Structure['ATS-P_2way1'].Put('1',0,0.05,0,,,,3,);	
@@ -79,13 +76,10 @@ BveTs Map 2.00
 	$sig;
 
 	#P
-	$sig-5;
-	# Beacon.Put(4,-1,0);
-	# Beacon.Put(3,-1,9);
-	Structure['ATS-P_2way1Y'].Put('1',0,0.05,0,,,,3,);
 	$sig-25;
-	Beacon.Put(3,-1,6);
-	Structure['ATS-P_2way1'].Put('1',0,0.05,0,,,,3,);
+	Beacon.Put(4,-1,0);
+	Beacon.Put(3,-1,9);
+	Structure['ATS-P_2way1Y'].Put('1',0,0.05,0,,,,3,);
 	$sig-50;
 	Beacon.Put(3,-1,5);
 	Structure['ATS-P_2way1P'].Put('1',0,0.05,0,,,,3,);	
